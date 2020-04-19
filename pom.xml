@@ -15,6 +15,7 @@
     </parent>
 
     <build>
+        <finalName>provisioning</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
